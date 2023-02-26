@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../SIPMPLE HTML START"
+		},
+		{
+			"path": "../../../../../../Downloads/webcademy-js-6-hours-course/webcademy-js-6-hours-course"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "easi"
+	}
+}

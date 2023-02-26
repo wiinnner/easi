@@ -1,0 +1,87 @@
+body{
+	font-family: Gilroy-Bold;
+}
+.intro_inner{
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+	margin-left: 252px;
+}
+
+ul li{
+	list-style: none;
+}
+nav a{
+	text-decoration: none;
+	color:#828282;
+}
+
+nav a:hover{
+	color: black;
+}
+.munu{
+
+}
+a{
+	float: left;
+	margin-right: 155px;
+	text-decoration: none;
+}
+.intro{
+}
+
+a:after{
+        
+        display: block;
+        content: "";
+        transition: all .5s;
+        width: 0%	;
+        margin: auto;
+
+      }
+        a:hover:after{
+          width: 100%;
+        margin-top: 2px;
+         
+         height: 1px;
+         background-color: black;
+        }
+        .text{
+		position: absolute;
+		left: 17.37%;
+		right: 74.08%;
+		top: 2.69%;
+		bottom: 94.82%;
+
+		font-family: Gilroy-Bold;
+		font-size: 47.3392px;
+
+        }
+        .para{
+        	font-size: 18px;
+        	position: absolute;
+left: 46.49%;
+right: 42.74%;
+top: 3.85%;
+bottom: 95.22%;
+font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+color: #070707;
+margin-top: 183px;
+        }
+ .img{
+ 	margin: 0 auto;
+ 	position: absolute;
+width: 943.61px;
+height: 387px;
+left: 250.69px;
+top: 276.94px;
+background: url(valentin-salja-1058467-unsplash.jpg);
+margin-top: 40px;
+
+ }
+.box{
+	font-size: 18px;
+	
+}

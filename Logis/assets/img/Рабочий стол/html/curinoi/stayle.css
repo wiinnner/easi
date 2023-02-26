@@ -1,0 +1,59 @@
+body{
+	background: #1A1919;
+	color: #fff;
+}
+
+.container
+.car{
+	text-align: center;
+	border: solid  1px;
+	border-radius: 10px;
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+}
+.car:hover{
+color: #7C7474;		
+	h
+}
+
+.table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+.table th {
+	font-weight: bold;
+	padding: 5px;
+	background: #7C7474;
+	border: 1px solid #dddddd;
+}
+.table td {
+	border: 1px solid #dddddd;
+	padding: 5px;
+}
+
+tr{
+text-align: center;
+}
+.img{
+  display: block;
+  margin: 0 auto;
+}
+.poezii{
+	text-align: center;
+	margin: 0;
+}
+.img_intro{
+margin-right: 10px;
+ display: flex;
+
+}
+p{
+	margin: 0;
+}
+img{
+width: 150px;
+ height: 100px;	
+}

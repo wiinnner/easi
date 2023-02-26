@@ -1,0 +1,49 @@
+body{
+
+background: url(img/1.png) no-repeat center center fixed;
+ background-size: cover;
+}
+
+h1,h2,h3,h4,h5,h6{
+	margin: 0;
+}
+
+
+*,
+*:before,
+*:after
+{
+	box-sizing: border-box;
+}
+
+.container{
+max-width: 100%;
+width: 100%;
+
+
+}
+.logo{
+	margin: 20px 50px;
+
+}
+
+.love{
+}
+
+.rose1{
+	float: right;
+	margin-right: 30px;
+	}
+
+
+.rose2{
+	display: flex;
+	align-items: flex-end;
+	margin-left: 30px;
+	margin: 0;
+	justify-content: space-around;
+}
+
+
+
+

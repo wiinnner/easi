@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix::after { 
+    content: '';
+    clear: both; 
+    display: block;
+}
+
+body {
+    font-size: 20px;
+    background-image: linear-gradient(270deg, #2376ae 0%, #c16ecf 100%); 
+    padding: 20px;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 0 0 2px black;
+}
+
+a {
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 0 0 2px black;
+    text-decoration: none;
+}
+
+.mainMenu {
+    list-style: none; 
+    width: 250px;
+    margin: 0 auto; 
+    padding: 0;
+    border: 1px solid black;
+}
+
+.mainMenu > li {
+    position: relative; 
+    background: rgba(0, 0, 0, 0.2); 
+    padding: 10px;
+    text-align: center;
+}
+
+.mainMenu > li:hover {
+    background: rgba(0, 0, 0, 0.3); 
+    cursor: pointer;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    width: 500px;
+    margin: 10px auto;
+}
+
+/* For Task1 */
+table, td, th {
+    border: 2px solid black;
+}
+
+table {
+    background: rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+}
+
+td, th {
+    padding: 5px;
+}
+/* For Task1 --------------------------- */
+
+/* For Task2 */
+form {
+    border: 2px solid black;
+    background: rgba(0, 0, 0, 0.1);
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+}
+
+input, textarea {
+    box-shadow: 0 0 2px black;
+    padding: 2px;
+    border: 1px solid black;
+}
+
+input:focus, textarea:focus {
+    background: #f5f5dc;
+}
+
+/* For Task2 --------------------------- */
+
+
+
+/* For Task3 */
+.flag {
+    width: 300px;
+    height: 200px;
+    background: white;
+    margin: 0 auto;
+    box-shadow: 0 0 5px black;
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: red;
+    margin: 40px auto;
+}
+/* For Task3 --------------------------- */
+
+/* For Task4 */
+.content {
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    font-size: 30px;
+}
+
+.content img {
+    margin-right: 30px;
+    float: left;
+    box-shadow: 0 0 5px black;
+}
+
+.btnUP {
+    width: 100px;
+    height: 50px;
+    position: fixed;
+    left: 100px;
+    bottom: 20px;
+    background: yellow;
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    box-shadow: 0 0 10px black;
+}
+/* For Task4 --------------------------- */
+
+/* For Task5 */
+.container3 {
+    margin: 0 auto;
+    width: 500px;
+}
+.battery {
+    width: 150px; 
+    height: 50px;
+    border: solid 4px black; 
+    margin: 0 auto 10px;
+    position: relative;
+}
+.battery::after {
+    content: "";
+    width: 10px;
+    height: 20px;
+    background: #000000;
+    position: absolute;
+    left: 150px; bottom: 15px;
+}
+.green {
+    background: green;
+}
+.red {
+    background: linear-gradient(to right, red 50px, #ffffff 51px)
+}
+.yellow {
+    background: linear-gradient(to right, #f8bf05 100px, #fff 20px);
+}
+
+/* For Task5 --------------------------- */
+
+.wraper{
+    display: flex;
+    width: 300px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    background: rgb(255, 255, 255);
+     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    
+    }
+.modal{
+    background: red;
+    flex-basis: 100px;
+    border-radius: 50%;
+    min-height: 100px;
+}
+.rightpic {
+    float: left; /* Выравнивание по правому краю */
+    margin: 0 0 5px 5px; /* Отступы вокруг фотографии */
+    }
+    .linkul1{
+        background-color: yellow;
+        margin-left: 400px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    }
+  .battery{
+  position: relative;
+  border: 4px solid;
+  width: 150px;
+  height: 50px;
+  margin: auto;
+  margin-bottom: 10px;
+  content: "";
+}
+
+.battery::after{
+  content: "";
+  background: black;
+  position: absolute;
+  width: 6px;
+  height: 20px;
+  top: 15px;
+  left: 154px;
+}
+
+.low {
+  background: linear-gradient(90deg, #ED1C24 50px, white 50px);
+}
+
+.mid {
+  background: linear-gradient(90deg, #FFC60B 100px, white 100px);
+}
+
+.max {
+  background-color: #00A055;
+}

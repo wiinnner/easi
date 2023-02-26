@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "aututurn",
+			"path": "../aututurn"
+		},
+		{
+			"name": "gallery bootsrap",
+			"path": "../gallery bootsrap"
+		},
+		{
+			"name": "Logis",
+			"path": "../Logis"
+		},
+		{
+			"name": "Medilab",
+			"path": "../Medilab"
+		},
+		{
+			"name": "nwe project",
+			"path": "../nwe project"
+		},
+		{
+			"name": "src",
+			"path": "../../../../Downloads/PHPMailer-master/PHPMailer-master/src"
+		},
+		{
+			"name": "PHPMailer-master",
+			"path": "../../../../Downloads/PHPMailer-master/PHPMailer-master"
+		},
+		{
+			"name": "pernacurata",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pernacurata"
+	}
+}

@@ -1,0 +1,361 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <meta name="description" content="">
+        <meta name="author" content="Tooplate">
+
+        <title>GoUp</title>
+
+        <!-- CSS FILES -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap" rel="stylesheet">
+
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <link href="css/bootstrap-icons.css" rel="stylesheet">
+
+        <link href="css/magnific-popup.css" rel="stylesheet">
+
+        <link href="css/tooplate-waso-strategy.css" rel="stylesheet">
+        
+
+
+    </head>
+    
+    <body id="section_1">
+
+        <header class="site-header">
+            <div class="container">
+                <div class="row align-items-center">
+
+                    <div class="col-lg-3 col-md-5 col-7">
+                        <p class="text-white mb-0">
+                            <i class="bi-clock site-header-icon me-2"></i>
+                            Lun-Sim 8:00-19:00
+                        </p>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-5">
+                        <p class="text-white mb-0">
+                            <a href="tel: 078886060" class="text-white">
+                                <i class="bi-telephone site-header-icon me-2"></i>
+                            +373-788-60-60
+                            </a>
+                        </p>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-12 ms-auto">
+                        <ul class="social-icon">
+                            <li><a href="https://www.facebook.com/watch/AutoturnGoUp/" class="social-icon-link bi-facebook"></a></li>
+
+                            <li><a href="https://www.youtube.com/shorts/H-27F8h9IHY" class="social-icon-link bi-youtube"></a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </header>
+
+        <nav class="navbar navbar-expand-lg bg-white shadow-lg">
+            <div class="container">
+
+               <a href="index.html"> <img class="navbar-brand" src="images/projects/photo_2022-08-22_12-52-14-removebg-preview.png" alt=""></a>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_1"><small class="small-title"><strong class="text-warning"></strong></small>ГЛАВНАЯ</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_2"><small class="small-title"><strong class="text-warning"></strong></small> About</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_3"><small class="small-title"><strong class="text-warning"></strong></small> Servicii</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_4"><small class="small-title"><strong class="text-warning"></strong></small> Projects</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link click-scroll" href="#section_5"><small class="small-title"><strong class="text-warning"></strong></small> Контакты</a>
+                        </li>
+                    </ul>
+                <div>
+                        
+            </div>
+        </nav>
+
+        <main>
+
+            <section class="hero">
+                <div class="container-fluid h-100">
+                    <div class="row h-100">
+
+                        <div id="carouselExampleCaptions" class="carousel carousel-fade hero-carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <div class="container position-relative h-100">
+                                        <div class="carousel-caption d-flex flex-column justify-content-center">
+                                            <h1>Кампания<span class="text-warning"> GoUp </span>Аренда автовышки в Бельцы</h1>
+                                            <h3 class="subtext-lei">  450 лей\час</h3>
+
+                                            <div class="d-flex align-items-center mt-4">
+                                                <a class="custom-btn btn custom-link" href="#section_2">Get Started</a>
+
+                                                <a class="popup-youtube custom-icon d-flex ms-4" href="https://www.facebook.com/watch/?v=806290100035192">
+                                                    <i class="bi-play play-icon d-flex m-auto text-white"></i>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="carousel-image-wrap">
+                                        <img src="images/projects/10.jpg" class="img-fluid carousel-image" alt="">  
+                                                                        
+                                    </div>
+                                </div>
+                            </div>              
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="text-auto1">
+            <div class="container">
+            <div class="row car-cards">
+                <h2 style="margin-top:50px;">Аренда телескопической автовышки</h2>
+                <p class="our-auto-text">Услуги автовышки предоставляем на современной  спецтехнике, которая
+                    отличается своей повышенной маневренностью, компактностью и надежностью, что позволяет осуществлять работы на
+                    высоте любой сложности.</p>
+                <p class="our-auto-text">ВНИМАНИЕ! На нашем сайте укзаны ориентировочные цены на аренду автовышек, которые могут
+                    меняться как в сторону увиличения, так и в сторону снижения. Актуальную стоимость услуг всегда можно уточнить у
+                    диспетчера по телефону +373-788-60-60.</p>
+                    </div>
+                    </div>
+                    </section>
+
+
+            <section class="advantages">
+                <div class="container">
+                    <h2>Преимущества работы с нами</h2>
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3 item">
+                            <img src="images/projects/moneybox.svg"
+                                alt="Автовышка777 - низкая цена" title="Автовышка777 - низкая цена" width="150" height="150">
+                            <p class="text">Самая доступная цена на услугу аренды автовышки</p>
+                        </div>
+                        <div class="col-md-6 col-lg-3 item">
+                            <img src="images/projects/attestat.svg"
+                                alt="Автовышка777 - русские водители" title="Автовышка777 - русские водители" width="150"
+                                height="150">
+                            <p class="text">Только аттестованные водители</p>
+                        </div>
+                        <div class="col-md-6 col-lg-3 item">
+                            <img src="images/projects/technic.svg"
+                                alt="Автовышка777 - техническое обслуживание" title="Автовышка777 - техническое обслуживание"
+                                width="150" height="150">
+                            <p class="text">Самая надёжнаfя импортная спецтехника</p>
+                        </div>
+                        <div class="col-md-6 col-lg-3 item">
+                            <img src="images/projects/percent.svg"
+                                alt="Автовышка777 - собственный автопарк" title="Автовышка777 - собственный автопарк" width="150"
+                                height="150">
+                            <p class="text marker-text">Скидки и Акции на аренду вышек для наших постоянных клиентов</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+                    <section class="coupon mt-5">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 col-lg-6">
+                                    <h2 class="coupon-title">Хотите получить <span>скидку 5%</span> на ПЕРВЫЙ заказ аренды автовышки в нашей
+                                        компании?!</h2>
+                                    <p class="coupon-text">Просто подпишитесь на нашу страницу в фейсбуке и отправите сообщения со словом КУПОН, и можете заказать автовышку!
+                                    </p>
+                                    <div class="coupon-button">
+                                       <a href="https://www.facebook.com/AutoturnGoUp"> <button class="btn" data-toggle="modal" data-target="#couponModalFirst"
+                                           >Подписаться на страницу</button></a>
+                                    </div>
+                                    <div class="coupon-tel">
+                                        <div class="coupon-phone">
+                                            <a href="tel:078886060">
+                                                <i class="fas fa-phone"></i>
+                                                <span class="phone-number">+373-788-60-60</span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-6 coupon-auto-wrapper">
+                                    <img src="images/projects/stroitelnaya-tehnika-avtokran-NISSAN-CABSTAR-35-13-2011-OilSteel-Snake-2010-Compa---1658704398444414749_big--22072502130481865300.png" alt="Автовышка со скидкой" class="coupon-auto">
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+            
+            <section class="gallery">
+                <div class="container">
+            <h1 class="fw-light text-center text-lg-start mt-4 mb-0 text-lg-center">Наша автовышка в работе</h1>
+                <hr class="mt-2 mb-5">
+            
+                <div class="row text-center text-lg-start">
+            
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img  class="img-fluid img-thumbnail" src="images/projects/4.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="images/projects/5.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img  class="img-fluid img-thumbnail" src="images/projects/6.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="images/projects/1.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="images/projects/11.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img  class="img-fluid img-thumbnail" src="images/projects/12.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="images/projects/13.jpg" alt="">
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-6">
+                        <a href="#" class="d-block mb-4 h-100">
+                            <img class="img-fluid img-thumbnail" src="images/projects/14.jpg" alt="">
+                        </a>
+                    </div>
+                    </div>
+            </div>
+            </section>
+
+<section class="clients">
+    <div class="container">
+        <div class="clients-grid row">
+            <h2 class="clients-title col-12">Постоянные клиенты</h2>
+            <div class="client col-sm-6 col-lg-3"><img style="width: 240px;"
+                    src="images/projects/logo__1_-removebg-preview.png" alt="">
+            </div>
+            <div class="client col-sm-6 col-lg-3"><img
+                    src="images/projects/png-transparent-knauf-hd-logo-removebg-preview.png" alt="">
+            </div>
+            <div class="client col-sm-6 col-lg-3"><img
+                    src="images/projects/FLORIS-ULEI_-LOGO-copy-300x148-300x148-removebg-preview.png" alt="">
+            </div>
+            <div class="client col-sm-6 col-lg-3"><img style="margin-top: 10px;"
+                    src="images/projects/download-removebg-preview.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+
+            <section class="contact" id="section_5">
+
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#f9c10b" fill-opacity="1" d="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,250.7C1248,256,1344,288,1392,304L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+
+                <div class="contact-container-wrap">
+                    <div class="container">
+                        <div class="row">
+
+                            
+
+                            <div class="col-lg-6 col-12">
+                                <div class="contact-thumb">
+                                    
+                                    <div class="contact-info bg-white shadow-lg">
+                                        <h4 class="mb-4">Balti,Moldova</h4>
+
+                                        <h4 class="mb-2">
+                                            <a href="tel: 078886060">
+                                                <i class="bi-telephone contact-icon me-2"></i>
+                                            +373-788-60-60
+                                            </a>
+                                        </h4>
+
+                                        <h5>
+                                            <a href="mailto:info@company.com" class="footer-link">
+                                                <i class="bi-envelope-fill contact-icon me-2"></i>
+                                                info@company.com
+                                            </a>
+                                        </h5>
+                                        
+                                        <!-- Copy "embed a map" HTML code from any point on Google Maps -> Share Link  -->
+                                        <div class="map-responsive">
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42907.96496565812!2d27.901378949999998!3d47.766945799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40cb673a731f2613%3A0x75ffb7a54ede02d9!2z0JHQtdC70YzRhtGL!5e0!3m2!1sru!2s!4v1660778788946!5m2!1sru!2s"
+                                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="site-footer">
+            <div class="container">
+                <div class="row">
+                        
+                    <div class="col-lg-6 col-12">
+                        <div class="site-footer-wrap d-flex align-items-center">
+                            
+
+                            <ul class="social-icon">
+                                <li><a href="https://www.facebook.com/watch/AutoturnGoUp/" class="social-icon-link bi-facebook"></a></li>
+    
+                                <li><a href="https://www.youtube.com/shorts/H-27F8h9IHY" class="social-icon-link bi-youtube"></a></li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    
+
+                </div>
+            </div>
+        </footer>
+
+        <!-- JAVASCRIPT FILES -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.sticky.js"></script>
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/magnific-popup-options.js"></script>
+        <script src="js/click-scroll.js"></script>
+        <script src="js/custom.js"></script>
+
+    </body>
+</html>
